@@ -1,0 +1,5 @@
+eks_cluster_name = "EKS-cluster"
+kubernetes_version = "1.23"
+desired_size_of_node = "2"
+max_size_of_node = "2"
+min_size_of_node = "1"
